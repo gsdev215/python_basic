@@ -6,7 +6,8 @@ u can download software like pychaim , visual studios
 IN ANDROID :- 
 U can download app like pydroid3
 
-#installing package 
+#installing_package 
+
 u can install libraries in python by typing 
 ```python
  pip install (packagename) 
