@@ -8,22 +8,22 @@ U can download app like pydroid3
 
 #installing package 
 u can install libraries in python by typing 
-```pycon
+```python
  pip install (packagename) 
 ```
 in terminal 
 
 and to use package in python file by typing 
-```pycon
+```python
  import (packagename)
  ```
 before installing libraries in terminal 
 
-```pycon
+```python
  #example 
 ``` 
 or 
-```pycon
+```python
 '''example''' 
 ```  
 this is not executed by programme 
